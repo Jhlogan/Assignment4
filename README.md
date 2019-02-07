@@ -1,4 +1,7 @@
 # MIS 497 Assignment 4: Bootstrap
+
+> You should begin by cloning down your personal repo made with the instructions. There is not a template with this assignnment, you should create any files you may need
+
 This assignment must be submitted through **GitHub**. 90% of the grade will come from the code itself, the last 10% from properly naming and submitting. This assignment should contain a single HTML file with references to the Bootstrap stylesheets/scripts
 - [] A title of 'Resume'
 - [] Navbar with a Bootstrap theme of your choice
